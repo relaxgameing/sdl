@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.cpp": "cuda-cpp",
+        "*.html": "html",
+        "sdl.h": "c"
+    }
+}
